@@ -1,2 +1,2 @@
-# updateArrOfObjectsFromInputRightWayReact
+# updateObjectStateFromInputsReact
 Created with CodeSandbox
