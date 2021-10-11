@@ -1,0 +1,2 @@
+# updateArrOfObjectsFromInputRightWayReact
+Created with CodeSandbox
